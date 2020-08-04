@@ -1,0 +1,222 @@
+2018-12-17 11:35:09,596 [4] INFO  EJOBFILE.Service1 Service Started successfully
+2018-12-17 11:35:25,850 [5] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:35:25,855 [5] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:35:25,857 [5] INFO  EJOBFILE.Service1 The directory is we are accessing: SG PI 122304 PT OKI Part 2
+2018-12-17 11:35:25,860 [5] INFO  EJOBFILE.Service1 PT OKI Part 2 Successful
+2018-12-17 11:35:25,862 [5] INFO  EJOBFILE.Service1 Searching directory: SG PI 122304 PT OKI Part 2
+2018-12-17 11:35:25,864 [5] INFO  EJOBFILE.Service1 
+2018-12-17 11:35:25,868 [5] INFO  EJOBFILE.Service1 Current processing file: CA 22731.pdf 
+2018-12-17 11:35:25,879 [5] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:35:25,881 [5] INFO  EJOBFILE.Service1 Checking of CA 22731.pdf done
+2018-12-17 11:35:25,883 [5] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:35:25,885 [5] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:35:25,887 [5] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:35:25,890 [5] INFO  EJOBFILE.Service1 Current processing file: OKT 47466998.pdf 
+2018-12-17 11:35:25,892 [5] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:35:25,894 [5] INFO  EJOBFILE.Service1 Checking of OKT 47466998.pdf done
+2018-12-17 11:35:25,896 [5] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:35:25,898 [5] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:35:25,900 [5] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:35:25,902 [5] INFO  EJOBFILE.Service1 Current processing file: Original LC.pdf 
+2018-12-17 11:35:25,904 [5] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:35:25,907 [5] INFO  EJOBFILE.Service1 Checking of Original LC.pdf done
+2018-12-17 11:35:25,909 [5] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:35:25,911 [5] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:35:25,913 [5] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:35:25,916 [5] INFO  EJOBFILE.Service1 Current processing file: PI 122304.pdf 
+2018-12-17 11:35:25,918 [5] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:35:25,920 [5] INFO  EJOBFILE.Service1 Checking of PI 122304.pdf done
+2018-12-17 11:35:25,922 [5] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:35:25,925 [5] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:35:25,928 [5] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:35:25,930 [5] INFO  EJOBFILE.Service1 Current processing file: PT OKI - PO#OKT-47466998 (PI#122304  - 10MT BLX 14385 & 3198 KGS BUBOND 2624) SHIPMENT DETAILS.msg 
+2018-12-17 11:35:25,932 [5] INFO  EJOBFILE.Service1 Current filename: .msg 
+2018-12-17 11:35:25,935 [5] INFO  EJOBFILE.Service1 Checking of PT OKI - PO#OKT-47466998 (PI#122304  - 10MT BLX 14385 & 3198 KGS BUBOND 2624) SHIPMENT DETAILS.msg done
+2018-12-17 11:35:25,937 [5] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:35:25,939 [5] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:35:25,941 [5] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:35:25,944 [5] INFO  EJOBFILE.Service1 Current processing file: SRA 22731.pdf 
+2018-12-17 11:35:25,946 [5] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:35:25,949 [5] INFO  EJOBFILE.Service1 Checking of SRA 22731.pdf done
+2018-12-17 11:35:25,951 [5] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:35:25,953 [5] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:35:25,955 [5] INFO  EJOBFILE.Service1 Checking of sra_Doc True
+2018-12-17 11:35:25,957 [5] INFO  EJOBFILE.Service1 Folder passed: True
+2018-12-17 11:35:25,959 [5] INFO  EJOBFILE.Service1 Reset Folder: FalseFalseFalse
+2018-12-17 11:35:25,962 [5] INFO  EJOBFILE.Service1 Consolidate Folder: SG PI 122304 PT OKI Part 2
+2018-12-17 11:35:26,014 [5] INFO  EJOBFILE.Service1 Adding: SG PI 122304 PT OKI Part 2
+2018-12-17 11:35:26,026 [5] INFO  EJOBFILE.Service1 Number of folders: System.Collections.Generic.List`1[System.String]
+2018-12-17 11:35:26,028 [5] INFO  EJOBFILE.Service1 Email Sent
+2018-12-17 11:35:26,045 [5] INFO  EJOBFILE.Service1 select COUNT(*) as RECORD_NUMBER   FROM [inet].[dbo].[dbo.EJOB]  where [JOBNAME] ='SG PI 122304 PT OKI Part 2' and DATEOFJOB = '2018-12-17 00:00:00'
+2018-12-17 11:35:27,664 [5] INFO  EJOBFILE.Service1 Mail Sent: 0
+2018-12-17 11:35:39,605 [5] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:35:39,615 [5] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:35:39,626 [5] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:35:39,631 [5] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:35:39,634 [5] INFO  EJOBFILE.Service1 No email has been sent as it 
+2018-12-17 11:35:54,607 [5] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:35:54,610 [5] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:35:54,612 [5] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:35:54,615 [5] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:35:54,617 [5] INFO  EJOBFILE.Service1 No email has been sent as it 
+2018-12-17 11:36:09,607 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:36:09,610 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:36:09,612 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: SG PI 122304 PT OKI Part 2
+2018-12-17 11:36:09,615 [4] INFO  EJOBFILE.Service1 PT OKI Part 2 Successful
+2018-12-17 11:36:09,618 [4] INFO  EJOBFILE.Service1 Searching directory: SG PI 122304 PT OKI Part 2
+2018-12-17 11:36:09,620 [4] INFO  EJOBFILE.Service1 
+2018-12-17 11:36:09,623 [4] INFO  EJOBFILE.Service1 Current processing file: CA 22731.pdf 
+2018-12-17 11:36:09,625 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:36:09,627 [4] INFO  EJOBFILE.Service1 Checking of CA 22731.pdf done
+2018-12-17 11:36:09,630 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:36:09,632 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:36:09,634 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:36:09,637 [4] INFO  EJOBFILE.Service1 Current processing file: OKT 47466998.pdf 
+2018-12-17 11:36:09,639 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:36:09,642 [4] INFO  EJOBFILE.Service1 Checking of OKT 47466998.pdf done
+2018-12-17 11:36:09,645 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:36:09,647 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:36:09,649 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:36:09,671 [4] INFO  EJOBFILE.Service1 Current processing file: Original LC.pdf 
+2018-12-17 11:36:09,674 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:36:09,676 [4] INFO  EJOBFILE.Service1 Checking of Original LC.pdf done
+2018-12-17 11:36:09,679 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:36:09,681 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:36:09,684 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:36:09,688 [4] INFO  EJOBFILE.Service1 Current processing file: PI 122304.pdf 
+2018-12-17 11:36:09,690 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:36:09,693 [4] INFO  EJOBFILE.Service1 Checking of PI 122304.pdf done
+2018-12-17 11:36:09,697 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:36:09,700 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:36:09,703 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:36:09,707 [4] INFO  EJOBFILE.Service1 Current processing file: PT OKI - PO#OKT-47466998 (PI#122304  - 10MT BLX 14385 & 3198 KGS BUBOND 2624) SHIPMENT DETAILS.msg 
+2018-12-17 11:36:09,709 [4] INFO  EJOBFILE.Service1 Current filename: .msg 
+2018-12-17 11:36:09,712 [4] INFO  EJOBFILE.Service1 Checking of PT OKI - PO#OKT-47466998 (PI#122304  - 10MT BLX 14385 & 3198 KGS BUBOND 2624) SHIPMENT DETAILS.msg done
+2018-12-17 11:36:09,716 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:36:09,719 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:36:09,722 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:36:09,725 [4] INFO  EJOBFILE.Service1 Current processing file: SRA 22731.pdf 
+2018-12-17 11:36:09,728 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:36:09,734 [4] INFO  EJOBFILE.Service1 Checking of SRA 22731.pdf done
+2018-12-17 11:36:09,738 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:36:09,741 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:36:09,744 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc True
+2018-12-17 11:36:09,746 [4] INFO  EJOBFILE.Service1 Folder passed: True
+2018-12-17 11:36:09,752 [4] INFO  EJOBFILE.Service1 Reset Folder: FalseFalseFalse
+2018-12-17 11:36:09,754 [4] INFO  EJOBFILE.Service1 Consolidate Folder: SG PI 122304 PT OKI Part 2
+2018-12-17 11:36:09,758 [4] INFO  EJOBFILE.Service1 Adding: SG PI 122304 PT OKI Part 2
+2018-12-17 11:36:09,766 [4] INFO  EJOBFILE.Service1 Number of folders: System.Collections.Generic.List`1[System.String]
+2018-12-17 11:36:09,768 [4] INFO  EJOBFILE.Service1 Email Sent
+2018-12-17 11:36:09,770 [4] INFO  EJOBFILE.Service1 select COUNT(*) as RECORD_NUMBER   FROM [inet].[dbo].[dbo.EJOB]  where [JOBNAME] ='SG PI 122304 PT OKI Part 2' and DATEOFJOB = '2018-12-17 00:00:00'
+2018-12-17 11:36:24,602 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:36:24,607 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:36:24,609 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:36:24,613 [4] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:36:24,616 [4] INFO  EJOBFILE.Service1 No email has been sent as it 
+2018-12-17 11:36:39,609 [5] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:36:39,612 [5] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:36:39,614 [5] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:36:39,616 [5] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:36:39,618 [5] INFO  EJOBFILE.Service1 No email has been sent as it 
+2018-12-17 11:36:54,617 [5] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:36:54,624 [5] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:36:54,629 [5] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:36:54,633 [5] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:36:54,637 [5] INFO  EJOBFILE.Service1 No email has been sent as it 
+2018-12-17 11:37:09,617 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:37:09,621 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:37:09,625 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:37:09,628 [4] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:37:09,631 [4] INFO  EJOBFILE.Service1 No email has been sent as it 
+2018-12-17 11:37:24,614 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:37:24,617 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:37:24,620 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:37:24,622 [4] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:37:24,624 [4] INFO  EJOBFILE.Service1 No email has been sent as it 
+2018-12-17 11:37:27,424 [4] INFO  EJOBFILE.Service1 Service Stopped
+2018-12-17 11:56:29,770 [4] INFO  EJOBFILE.Service1 Service Started successfully
+2018-12-17 11:56:45,728 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:56:45,735 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:56:45,737 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: SG PI 122304 PT OKI Part 2
+2018-12-17 11:56:45,740 [4] INFO  EJOBFILE.Service1 PT OKI Part 2 Successful
+2018-12-17 11:56:45,742 [4] INFO  EJOBFILE.Service1 Searching directory: SG PI 122304 PT OKI Part 2
+2018-12-17 11:56:45,747 [4] INFO  EJOBFILE.Service1 
+2018-12-17 11:56:45,752 [4] INFO  EJOBFILE.Service1 Current processing file: CA 22731.pdf 
+2018-12-17 11:56:45,754 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:56:45,757 [4] INFO  EJOBFILE.Service1 Checking of CA 22731.pdf done
+2018-12-17 11:56:45,759 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:56:45,762 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:56:45,765 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:56:45,768 [4] INFO  EJOBFILE.Service1 Current processing file: OKT 47466998.pdf 
+2018-12-17 11:56:45,770 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:56:45,772 [4] INFO  EJOBFILE.Service1 Checking of OKT 47466998.pdf done
+2018-12-17 11:56:45,775 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:56:45,777 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:56:45,781 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:56:45,784 [4] INFO  EJOBFILE.Service1 Current processing file: Original LC.pdf 
+2018-12-17 11:56:45,786 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:56:45,789 [4] INFO  EJOBFILE.Service1 Checking of Original LC.pdf done
+2018-12-17 11:56:45,791 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc False
+2018-12-17 11:56:45,794 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:56:45,797 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:56:45,800 [4] INFO  EJOBFILE.Service1 Current processing file: PI 122304.pdf 
+2018-12-17 11:56:45,802 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:56:45,805 [4] INFO  EJOBFILE.Service1 Checking of PI 122304.pdf done
+2018-12-17 11:56:45,809 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:56:45,811 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:56:45,815 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:56:45,818 [4] INFO  EJOBFILE.Service1 Current processing file: PT OKI - PO#OKT-47466998 (PI#122304  - 10MT BLX 14385 & 3198 KGS BUBOND 2624) SHIPMENT DETAILS.msg 
+2018-12-17 11:56:45,820 [4] INFO  EJOBFILE.Service1 Current filename: .msg 
+2018-12-17 11:56:45,822 [4] INFO  EJOBFILE.Service1 Checking of PT OKI - PO#OKT-47466998 (PI#122304  - 10MT BLX 14385 & 3198 KGS BUBOND 2624) SHIPMENT DETAILS.msg done
+2018-12-17 11:56:45,825 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:56:45,827 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:56:45,830 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc False
+2018-12-17 11:56:45,833 [4] INFO  EJOBFILE.Service1 Current processing file: SRA 22731.pdf 
+2018-12-17 11:56:45,835 [4] INFO  EJOBFILE.Service1 Current filename: .pdf 
+2018-12-17 11:56:45,837 [4] INFO  EJOBFILE.Service1 Checking of SRA 22731.pdf done
+2018-12-17 11:56:45,840 [4] INFO  EJOBFILE.Service1 Checking of pi_Doc True
+2018-12-17 11:56:45,842 [4] INFO  EJOBFILE.Service1 Checking of ca_Doc True
+2018-12-17 11:56:45,845 [4] INFO  EJOBFILE.Service1 Checking of sra_Doc True
+2018-12-17 11:56:45,848 [4] INFO  EJOBFILE.Service1 Folder passed: True
+2018-12-17 11:56:45,850 [4] INFO  EJOBFILE.Service1 Reset Folder: FalseFalseFalse
+2018-12-17 11:56:45,852 [4] INFO  EJOBFILE.Service1 Consolidate Folder: SG PI 122304 PT OKI Part 2
+2018-12-17 11:56:45,932 [4] INFO  EJOBFILE.Service1 Adding: SG PI 122304 PT OKI Part 2
+2018-12-17 11:56:45,944 [4] INFO  EJOBFILE.Service1 Number of folders: System.Collections.Generic.List`1[System.String]
+2018-12-17 11:56:45,947 [4] INFO  EJOBFILE.Service1 Email Sent
+2018-12-17 11:56:45,973 [4] INFO  EJOBFILE.Service1 select COUNT(*) as RECORD_NUMBER   FROM [inet].[dbo].[dbo.EJOB]  where [JOBNAME] ='SG PI 122304 PT OKI Part 2' and DATEOFJOB = '2018-12-17 00:00:00'
+2018-12-17 11:56:59,772 [5] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:56:59,778 [5] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:56:59,779 [5] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:56:59,781 [5] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:56:59,783 [5] INFO  EJOBFILE.Service1 No email has been sent as it does not have any file processe.
+2018-12-17 11:57:14,786 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:57:14,792 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:57:14,797 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:57:14,804 [4] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:57:14,809 [4] INFO  EJOBFILE.Service1 No email has been sent as it does not have any file processe.
+2018-12-17 11:57:29,785 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:57:29,788 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:57:29,790 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:57:29,792 [4] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:57:29,794 [4] INFO  EJOBFILE.Service1 No email has been sent as it does not have any file processe.
+2018-12-17 11:57:44,802 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:57:44,805 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:57:44,807 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:57:44,809 [4] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:57:44,812 [4] INFO  EJOBFILE.Service1 No email has been sent as it does not have any file processe.
+2018-12-17 11:57:59,995 [5] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:57:59,999 [5] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:58:00,003 [5] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:58:00,008 [5] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:58:00,011 [5] INFO  EJOBFILE.Service1 No email has been sent as it does not have any file processe.
+2018-12-17 11:58:14,790 [4] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:58:14,792 [4] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:58:14,795 [4] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:58:14,797 [4] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:58:14,799 [4] INFO  EJOBFILE.Service1 No email has been sent as it does not have any file processe.
+2018-12-17 11:58:29,788 [5] INFO  EJOBFILE.Service1 All the subdirectories are: System.String[]
+2018-12-17 11:58:29,791 [5] INFO  EJOBFILE.Service1 Number of files in E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 : 6
+2018-12-17 11:58:29,793 [5] INFO  EJOBFILE.Service1 The directory is we are accessing: _SG PI 122304 PT OKI Part 2
+2018-12-17 11:58:29,795 [5] INFO  EJOBFILE.Service1 E:\DO-IT_Team\E Job File\_SG PI 122304 PT OKI Part 2 does not satisfy the criteria
+2018-12-17 11:58:29,797 [5] INFO  EJOBFILE.Service1 No email has been sent as it does not have any file processe.
+2018-12-17 11:58:35,013 [5] INFO  EJOBFILE.Service1 Service Stopped
